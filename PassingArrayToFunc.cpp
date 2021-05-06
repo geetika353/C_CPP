@@ -1,5 +1,6 @@
 #include<iostream>
 
+void printArray(int A[5]);
 using namespace std;
 
 int main()
@@ -20,6 +21,6 @@ void printArray(int A[5])
 
     for(int i=0;i<5;i++)
     { 
-        cout<<A[i];<<'\n';
+        cout<<A[i]<<'\n';
     }
 }
