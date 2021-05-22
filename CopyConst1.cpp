@@ -23,9 +23,9 @@ int main()
 {
     A a1(300); // Calling copy constructor
 
-    A a2(70);
+    A a2(a1);
 
-    cout<<a1.x;
+    cout<<a2.x;
  
 
     return 0;
