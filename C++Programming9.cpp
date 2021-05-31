@@ -1,4 +1,4 @@
-/* Program to swap two numbers without using third Variable by '+' and '-' */
+/* Program to swap two numbers without using third Variable by '*' and '/' */
 
 #include <iostream>
 using namespace std;
